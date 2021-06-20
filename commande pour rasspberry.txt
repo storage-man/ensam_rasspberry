@@ -1,0 +1,5 @@
+sudo apt update
+sudo apt upgrade
+cd project
+pip install -r requirements.txt
+python main.py

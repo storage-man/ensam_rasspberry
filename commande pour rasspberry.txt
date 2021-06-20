@@ -1,5 +1,5 @@
 sudo apt update
 sudo apt upgrade
-cd project
+cd ensam_rasspberry
 pip install -r requirements.txt
 python main.py
